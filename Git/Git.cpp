@@ -1,10 +1,9 @@
 #include <iostream>
 using namespace std;
-class Point
-{
+class Rectangle {
 
 };
-class Rectangle 
+class Point 
 {
 
 };
